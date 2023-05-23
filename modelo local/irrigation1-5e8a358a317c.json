@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "irrigation1",
+  "private_key_id": "5e8a358a317c99233b5dd04d9effd25b36977ae0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRNYDJTXh9tbi6\nRRN1BX/0J9hgirWx8gG7iH6zDIBf3E8EekTb5pG7ddFhzNFFMo3RBOHwWG4Kxmdt\n5mS+WpeLOPgt/+IQO1R+J/vFTL6TZWcveQE1j7En92fKONY+LxOKYi6kNmP+2Cu3\niq9Mh+I996GWqn5Dx623LoUeJCFbNOPhvxjGNTHR+sFhozD6EfdXzA+y2cM2C3nf\nd27ZLgq8YyMmUI/BO+ox9Zf1Smw7qgUlzQDQyjqpBLdZK9pgHnWTaeeDRdKdBcCt\n27gHr2rjNirhCrT1WVQaQqu4mcCAgkVp9hoVAgYnBCkON2LoRaQy9jHIjoWatVfJ\n0yUU95HLAgMBAAECggEAYURk2jLgoGHKvx+6ih/Ce7vCyC/1hgQkdhJiBdD8JpWB\nT22hcjPi8as3bCcT7P4yHUoN2fbjQrM4B0qk8DOiXaJhENH1QuKyx+zDC9pAiLsO\nnG2/+C0UiqZmZQjD4yl0BlTbppF7MFNFEBK0qfpLX9AwGqKuDclapN5GGdtmfsZj\nIg7NSWBPRWtpNnPrNXOqYcci5KSlWH7xD77rMiFGKc2R/gNBlNANK2PrDSprtGnS\nHGmXvxg1z6HZ0KlnME1PyN3dkYbAY/Fdrxyk5SOZ6wpr3HNO0T5TTllat241x66+\nLFjSamjucE2oLsVsE6gng36BaVbra8iyzTIaBzOJsQKBgQDtOEZ1bOEkY+CdY25u\nnswh97cKZVFy3QMAj5B/aSHBmbNyJEQ1nrf58SflN4yKqOVjSgtzmV/KPDRxoO1d\nXFQuRPkOpJ0EK8OWH9dWotJMNJWvAXJlRDebEqYw9RfkNTQJRFrEd3fKEh2axPEX\ncQHqGPWqFqwvijNqt5+DrgI9lwKBgQDhxYiSvuQ8s0r3TAv67A950XVzKlmZt/yd\nSE6fCpXEzLBMTwOicHgxa+Um7XwSWLur8EI7F6heclyNR/hiwOiKbz53hBHLequg\nqXRO0/sFYzokvYqbGduY9pEpcgUNKM3GKTYNyYlrxrJcPfgeQXD3/dKU+Iopi9xB\nnCZt9Lt77QKBgG0s4zCT5aJr3SpSYrbCmsxfR3yfWLb2hLUzXZtl9UU2yeGUU1gi\nLiX4GRZjVGlUhg4GO/L9+ZoHz1Mkb1nybkPFNqLInAMZaTCkguS6lvK/mMwsbEuy\n86yJDreldVNwMPy62tNk8Fqtr7ZVQWg6eFkXF6kqOiC/CB7rV5yw7xMNAoGBAMZE\nY4CDVQodZdswlGDCB4EyOZNugIsm8RfqlOjEMexG2RfaV9XCMTsthmqeKdQuynjf\nIDqmtvxiL/b+WhnXUR+pO9FXUQ1BaBFKXtKPBCWiE0CKl3tHxPpapfYgpGD/EV5R\neJ+4+g6EysOIxClFzQBrjg+3CBYeNcoEaBct0autAoGASzRikFv12MRPBlbM2H7h\nUuJx4mQAZCjFITO4p0lzXAIZCCRz9FQpvjCQRj2LCcobELt9+5MPfb5fXGYhM2g1\nWaAdyhUSMUbmpKYUwJUWx+6G0sbrKDljkKSntUnAPc/aXPoW3H3kUmWpM/GgNa2p\nXrc5Z08bjnoVr98N8BE/lq4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "main-api@irrigation1.iam.gserviceaccount.com",
+  "client_id": "112105175077703051034",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/main-api%40irrigation1.iam.gserviceaccount.com"
+}
