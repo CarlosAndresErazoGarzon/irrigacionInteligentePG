@@ -1,3 +1,6 @@
 [submodule "sistema_fisico"]
 	path = sistema_fisico
 	url = file:///D:/Proyect_final/irrigacionInteligentePG/sistema_fisico
+[submodule "aplicacion_movil"]
+	path = aplicacion_movil
+	url = https://github.com/MrZ0mbi3/appProyectoGrado
