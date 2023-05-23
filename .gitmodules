@@ -1,0 +1,3 @@
+[submodule "sistema_fisico"]
+	path = sistema_fisico
+	url = file:///D:/Proyect_final/irrigacionInteligentePG/sistema_fisico
